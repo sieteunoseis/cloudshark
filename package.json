@@ -1,0 +1,22 @@
+{
+  "name": "cisco-cloudshark",
+  "version": "1.0.0",
+  "description": "Script to upload packet captures to Cloudshark Personal",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cisco",
+    "cloudshark",
+    "dime",
+    "cisco-dime"
+  ],
+  "author": "Jeremy Worden",
+  "license": "MIT",
+  "dependencies": {
+    "cisco-dime": "^1.7.4",
+    "form-data": "^4.0.0",
+    "fs-extra": "^10.1.0"
+  }
+}
