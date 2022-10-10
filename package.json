@@ -1,6 +1,6 @@
 {
   "name": "cloudshark",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Script to upload packet captures to Cloudshark Personal",
   "main": "main.js",
   "scripts": {
