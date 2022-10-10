@@ -24,18 +24,7 @@ npm install cloudshark
 
 ## Usage
 
-```js
-useBasicFetch(url: string = '', delay: number = 0)
-```
-
-Supported options and result fields for the `useBasicFetch` hook are listed below.
-
-`url`
-
-| Type | Default value |
-| --- | --- |
-| string | '' |
-
+See test/tests.js for examples of usage.
 
 ## Contributing
 
@@ -58,5 +47,4 @@ MIT
 ## Questions?
   
   For any questions, please contact me with the information below:
- 
   GitHub: [@sieteunoseis](https://api.github.com/users/sieteunoseis)
