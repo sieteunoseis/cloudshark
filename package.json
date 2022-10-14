@@ -1,6 +1,6 @@
 {
   "name": "cloudshark",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "Script to upload packet captures to Cloudshark Personal",
   "main": "main.js",
   "scripts": {
@@ -12,7 +12,13 @@
     "packet",
     "capture"
   ],
-  "author": "Jeremy Worden",
+  "author": {
+    "name": "Jeremy Worden",
+    "email": "jeremy@automate.builders"
+  },
   "license": "MIT",
-  "dependencies": {}
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sieteunoseis/cloudshark"
+  }
 }

@@ -6,7 +6,7 @@ Check out the badges hosted by [shields.io](https://shields.io/).
 
 ## Description
 
-Cloudshark API wrapper for NodeJS.
+Cloudshark API wrapper for NodeJS. Uses [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API). Requires Node 16.15.0 or higher. Full full support use Node 18.0.0 or higher.
 
 ## Table of Contents
 
